@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/welcome-to-the-bitchin/</loc>
+    <loc>http://thescholarlybitchin.com/posts/welcome-to-the-bitchin/</loc>
     <lastmod>2018-06-15T16:06:26-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2018-06-15T16:06:26-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://thescholarlybitchin.com/</loc>
     <lastmod>2018-06-15T16:06:26-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://thescholarlybitchin.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://thescholarlybitchin.com/posts/</loc>
+    <lastmod>2018-06-15T16:06:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://thescholarlybitchin.com/tags/</loc>
     <priority>0</priority>
   </url>
   

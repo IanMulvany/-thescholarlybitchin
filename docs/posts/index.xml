@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bitchin News from Schollarly Comms!</title>
-    <link>http://example.org/posts/</link>
+    <link>http://thescholarlybitchin.com/posts/</link>
     <description>Recent content in Posts on Bitchin News from Schollarly Comms!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jun 2018 16:06:26 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://thescholarlybitchin.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to the Bitchin</title>
-      <link>http://example.org/posts/welcome-to-the-bitchin/</link>
+      <link>http://thescholarlybitchin.com/posts/welcome-to-the-bitchin/</link>
       <pubDate>Fri, 15 Jun 2018 16:06:26 -0700</pubDate>
       
-      <guid>http://example.org/posts/welcome-to-the-bitchin/</guid>
+      <guid>http://thescholarlybitchin.com/posts/welcome-to-the-bitchin/</guid>
       <description>Welcome to the Bitchin!! This is a new tounge-in-cheek blog where we hope to highlight the Bitchin and THE COOL from the world of scholarly communications!
 We think scholarship is cool, we love researchers, and we love the many many totally aweomse people that work in the industry that makes all this stuff get onto and around the internets.
 We&amp;rsquo;ve obviously been inspiried by other blogs out there, and we want to make sure up front that we just want to say, we BIG Fans of those fora, and we hope evryone enjoyes the contribs that we&amp;rsquo;ll be making over the coming months,</description>
